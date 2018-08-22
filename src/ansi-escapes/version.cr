@@ -1,5 +1,5 @@
 require "yaml"
 
 module AnsiEscapes
-  VERSION = (YAML.load(File.read("./shard.yml")) as Hash)["version"]
+  VERSION = (YAML.parse(File.read("./shard.yml")))["version"]
 end
