@@ -1,6 +1,9 @@
 name: ansi-escapes
 version: 1.0.0
 
+description: |
+  ANSI escape codes for manipulating the terminal
+
 authors:
   - Guilherme J. Tramontina <guilherme.tramontina@gmail.com>
 
