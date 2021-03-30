@@ -1,4 +1,4 @@
-# ansi-escapes.cr [![travis build](https://img.shields.io/travis/gtramontina/ansi-escapes.cr.svg?style=flat-square)](https://travis-ci.org/gtramontina/ansi-escapes.cr)
+# ansi-escapes.cr ![CI](https://github.com/gtramontina/ansi-escapes.cr/actions/workflows/ci.yml/badge.svg)
 
 [ANSI escape codes](http://www.termsys.demon.co.uk/vtansi.htm) for manipulating the terminal.
 
